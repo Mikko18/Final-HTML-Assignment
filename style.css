@@ -1,8 +1,9 @@
 body {
-  background-image: url("kuvat/background-image.jpg");
+  background-image: url("Kuvat/background-image.jpg");
   background-size: cover;
 }
 .site-name {
   font-size: 40px;
   font-weight: 500;
 }
+
